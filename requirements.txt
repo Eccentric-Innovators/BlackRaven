@@ -1,0 +1,2 @@
+bmp280
+adafruit-lsm303
